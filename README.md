@@ -1,21 +1,18 @@
-<h1 align='center'>Hi there 👋🏾</h1>
+<h1 align='center'>Hi there My Name Is Subomi 👋🏾</h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter and Javascript. </p>
+<p align='center'>I am a 15 Year Old Game Developer And I Make Alot Of Cool Apps Feel Free To Contact Me </p>
 
 <p align='center'>
-<a href="https://wa.me/22961701427?text=Hello Jide">
+<a href="https://wa.me/2349034170809?text=Hello Subomi Got A Contract For You">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/iamjideguru">
+<a href="https://twitter.com/subomisdead">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/festus-babajide-olusegun-b2b197128">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/@jideguru">
+
+<a href="https://medium.com/@subomisdead">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:guruliciousjide@gmail.com">
+<a href="mailto:subomisdead@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <!--
